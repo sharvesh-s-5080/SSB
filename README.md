@@ -78,10 +78,12 @@ plot(t,usb);
 ```
 
 OUTPUT WAVEFORM
-<img width="1919" height="1000" alt="Screenshot 2025-09-10 034940" src="https://github.com/user-attachments/assets/6c381e1d-de3e-45b3-9753-aed8db88224d" />
+<img width="1677" height="993" alt="image" src="https://github.com/user-attachments/assets/9fff9e8a-1a24-4922-a02a-a67c56564d1f" />
+
 
 TABULATION
-![WhatsApp Image 2025-09-10 at 04 03 30_4a9ca329](https://github.com/user-attachments/assets/430d5d7a-094a-4ed4-987c-cfb72e06e766)
+
+![WhatsApp Image 2025-10-07 at 13 24 05_3176d9bb](https://github.com/user-attachments/assets/81d4f0b0-a529-4fa4-896a-5bc6c69d1d52)
 
 
 RESULT:
